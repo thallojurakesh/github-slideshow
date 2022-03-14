@@ -7,7 +7,7 @@ GEM
       minitest (~> 5.1)
       tzinfo (~> 1.1)
       zeitwerk (~> 2.2, >= 2.2.2)
-    addressable (2.8.0)
+    addressable (2.8.2)
       public_suffix (>= 2.0.2, < 5.0)
     coffee-script (2.4.1)
       coffee-script-source
@@ -36,7 +36,7 @@ GEM
     faraday-net_http (1.0.1)
     faraday-net_http_persistent (1.1.0)
     ffi (1.15.0)
-    forwardable-extended (2.6.0)
+    forwardable-extended (2.6.1)
     gemoji (3.0.1)
     github-pages (214)
       github-pages-health-check (= 1.17.0)
