@@ -26,7 +26,7 @@ GEM
       ffi (>= 1.15.0)
     eventmachine (1.2.7)
     execjs (2.7.0)
-
+j
     ffi (1.15.0)
     forwardable-extended (2.6.0)
     gemoji (3.0.1)
